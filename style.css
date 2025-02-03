@@ -61,6 +61,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    margin-top: 1.5rem;
 }
 
 .social-profile-links-item {
@@ -73,7 +74,6 @@ body {
     text-decoration: none;
     font-weight: 600;
     color: var(--green-color);
-    margin-top: 1.5rem;
     overflow: hidden;
     transition: .5s ease;
     z-index: 0;
